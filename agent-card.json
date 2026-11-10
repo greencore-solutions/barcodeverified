@@ -1,0 +1,19 @@
+{
+ "name": "Barcode verified · a wefetch standard",
+ "description": "What the words Barcode verified mean, who may use them, and the countries whose profiles are published.",
+ "url": "https://barcodeverified.org/",
+ "version": "1",
+ "provider": {
+  "organization": "wefetch",
+  "url": "https://wefetch.ai"
+ },
+ "documentationUrl": "https://barcodeverified.org/llms.txt",
+ "capabilities": {},
+ "skills": [],
+ "defaultInputModes": [
+  "application/json"
+ ],
+ "defaultOutputModes": [
+  "application/json"
+ ]
+}
